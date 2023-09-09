@@ -1,4 +1,4 @@
-let APP_ID = "YOU-APP-ID"
+let APP_ID = "bfb8093c3fd94fe494b6e9c48296f292"
 
 
 let token = null;
